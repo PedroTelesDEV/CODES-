@@ -26,7 +26,7 @@ def tarefa():
 
     # DESTINATÁRIO
     time.sleep(2)
-    pyautogui.write('estefanesouza2003@icloud.com')
+    pyautogui.write('E-MAIL')
     time.sleep(2)
     pyautogui.press('enter')
     pyautogui.press('tab')
@@ -39,13 +39,14 @@ def tarefa():
     pyautogui.press('tab')
 
     # MENSAGEM E-MAIL
-    pyperclip.copy('❤️ Love Love Love Love ❤️')
+    pyperclip.copy('TEXTO')
     pyautogui.hotkey('ctrl', 'v')
     pyautogui.press('tab')
     pyautogui.press('enter')
 # HOTKEY'S
 keyboard.add_hotkey("ctrl+alt+a", tarefa)
 keyboard.wait("esc")
+
 
 
 
