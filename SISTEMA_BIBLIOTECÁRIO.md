@@ -12,10 +12,10 @@ Funcionalidades:
 
 
 Estrutura do Projeto:
-[biblioteca_usuarios.json](https://github.com/user-attachments/files/23433304/biblioteca_usuarios.json)
-[biblioteca_livros.json](https://github.com/user-attachments/files/23433306/biblioteca_livros.json)
-[biblioteca_emprestimos.json](https://github.com/user-attachments/files/23433305/biblioteca_emprestimos.json)
-[biblioteca_main.py](https://github.com/user-attachments/files/23433303/biblioteca_main.py)
+[biblioteca_usuarios.json](https://github.com/user-attachments/files/23433304/biblioteca_usuarios.json) |
+[biblioteca_livros.json](https://github.com/user-attachments/files/23433306/biblioteca_livros.json) |
+[biblioteca_emprestimos.json](https://github.com/user-attachments/files/23433305/biblioteca_emprestimos.json) |
+[biblioteca_main.py](https://github.com/user-attachments/files/23433303/biblioteca_main.py) |
 
 Tecnologias Utilizadas:
 - Python 3
